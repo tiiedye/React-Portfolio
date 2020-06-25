@@ -1,9 +1,9 @@
 .hero {
-    height: 500px;
+    height: 565px;
     background-size: cover;
     background-position: center;
     position: relative;
-    background-image: url("../../images/Hero.jpg");
+    background-image: url("../../assets/Hero.jpg");
 }
 
 .hero::after {

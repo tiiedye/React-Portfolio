@@ -26,7 +26,8 @@ a:hover {
     color: darkslategray;
 }
 
-b {
-    font-family: 'Satisfy', cursive;
-    font-size: 20;
+.iconC {
+    font-size: 30px;
+    color: #053b73;
+    margin: 20px
 }

@@ -22,25 +22,37 @@ function Portfolio() {
 
             <div className="container row text-center">
                 <div className="col-md-4">
-                    <img src={require("../images/foodies-and-movies-thumb.png")} alt="Foodies and Movies" style={styles.img}></img>
+                    <img src={require("../assets/foodies-and-movies-thumb.png")} alt="Foodies and Movies" style={styles.img}></img>
                 </div>
 
                 <div className="col-md-8">
                     <a style={styles.projectTitle} href="https://tiiedye.github.io/foodies-and-movies/" target="_blank" rel="noopener noreferrer">Foodies & Movies</a>
                     <br />
                     An app to find food and drink recipes, and random movies.
+                    <p>
+                        <b>+</b> Uses a third-party API to gather recipe information
+                        <br />
+                        <b>+</b> Utilizes local storage to save food and drink recipes
+                        <br />
+                        <b>+</b> Picks a random movie using an API call to accompany your meal
+                    </p>
                 </div>
             </div>
 
             <div className="container row text-center">
                 <div className="col-md-4">
-                    <img src={require("../images/Selfcare-sidekick.png")} alt="Selfcare Sidekick" style={styles.img}></img>
+                    <img src={require("../assets/Selfcare-sidekick.png")} alt="Selfcare Sidekick" style={styles.img}></img>
                 </div>
 
                 <div className="col-md-8">
                     <a style={styles.projectTitle} href="https://personal-pet.herokuapp.com/" target="_blank" rel="noopener noreferrer">Self Care Sidekick</a>
                     <br />
                     An app to care for a digital pet while taking care of yourself.
+                    <p>
+                        <b>+</b> Allows for account creation and login
+                        <br />
+                        <b>+</b> Makes use of databases to add, track, and complete activities
+                    </p>
                 </div>
             </div>
 
@@ -73,6 +85,13 @@ function Portfolio() {
                 <p>
                     <h5>CLI Employee Tracker</h5>
                     <a class="a" href="https://github.com/tiiedye/12-Employee-Tracker" target="_blank" rel="noopener noreferrer">Repo</a>
+                </p>
+
+                <p>
+                    <h5>User Directory</h5>
+                    <a class="a" href="https://github.com/tiiedye/User-Directory" target="_blank" rel="noopener noreferrer">Repo</a>
+                    <br />
+                    <a class="a" href="https://tiiedye.github.io/User-Directory/" target="_blank" rel="noopener noreferrer">Deployed</a>
                 </p>
             </div>
         </div>
