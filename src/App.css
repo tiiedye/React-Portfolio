@@ -1,0 +1,32 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+    padding-top: 40px;
+    margin-top: 0;
+    font-family: 'Satisfy', cursive;
+}
+
+h2 {
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+
+h5 {
+    font-family: 'Satisfy', cursive;
+}
+
+a {
+    color: #053b73;
+}
+
+a:hover {
+    color: darkslategray;
+}
+
+b {
+    font-family: 'Satisfy', cursive;
+    font-size: 20;
+}
