@@ -59,7 +59,7 @@ function Resume() {
                         <b>+</b> Made with React, using both functional and class components
                     </p>
 
-                    <h5>Personal Pet</h5>
+                    <h5>Self-Care Sidekick</h5>
                     June 2020
                     <p>
                         <b>+</b> Allows for account creation and login
