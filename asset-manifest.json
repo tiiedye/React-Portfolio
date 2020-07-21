@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.01c35f22.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.9543b009.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.9543b009.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.c6f40769.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.c6f40769.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
-    "static/js/2.d2095a1a.chunk.js": "/React-Portfolio/static/js/2.d2095a1a.chunk.js",
-    "static/js/2.d2095a1a.chunk.js.map": "/React-Portfolio/static/js/2.d2095a1a.chunk.js.map",
+    "static/js/2.8c7429dc.chunk.js": "/React-Portfolio/static/js/2.8c7429dc.chunk.js",
+    "static/js/2.8c7429dc.chunk.js.map": "/React-Portfolio/static/js/2.8c7429dc.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.ca5b7fa8b0297b120c0020140617f999.js": "/React-Portfolio/precache-manifest.ca5b7fa8b0297b120c0020140617f999.js",
+    "precache-manifest.3589767d245af239b5ded7ffa202ed33.js": "/React-Portfolio/precache-manifest.3589767d245af239b5ded7ffa202ed33.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/main.01c35f22.chunk.css.map": "/React-Portfolio/static/css/main.01c35f22.chunk.css.map",
-    "static/js/2.d2095a1a.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d2095a1a.chunk.js.LICENSE.txt",
+    "static/js/2.8c7429dc.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8c7429dc.chunk.js.LICENSE.txt",
     "static/media/Hero.css": "/React-Portfolio/static/media/Hero.c607d7b7.jpg",
     "static/media/ProfilePic.jpg": "/React-Portfolio/static/media/ProfilePic.71d3f509.jpg",
     "static/media/Selfcare-sidekick.png": "/React-Portfolio/static/media/Selfcare-sidekick.6ee8d9ea.png",
+    "static/media/adventure-home.png": "/React-Portfolio/static/media/adventure-home.9c7f1dc0.png",
+    "static/media/adventure.png": "/React-Portfolio/static/media/adventure.a8bdbf6d.png",
     "static/media/foodies-and-movies-thumb.png": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png"
   },
   "entrypoints": [
     "static/js/runtime-main.266d4783.js",
-    "static/js/2.d2095a1a.chunk.js",
+    "static/js/2.8c7429dc.chunk.js",
     "static/css/main.01c35f22.chunk.css",
-    "static/js/main.9543b009.chunk.js"
+    "static/js/main.c6f40769.chunk.js"
   ]
 }
