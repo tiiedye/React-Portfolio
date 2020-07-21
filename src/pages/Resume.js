@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Resume() {
     return (
@@ -37,6 +38,47 @@ function Resume() {
 
             <h2>Experience</h2>
                 <p>
+                    <Link to="/portfolio">
+                        Portfolio    
+                    </Link>
+                </p>
+                <p>
+                    <h5>Once Upon an Adventure</h5>
+                    July 2020
+                    <p>
+                        <b>+</b> A small RPG-like game with storytelling and adventure mechanics.
+                        <br />
+                        <b>+</b> Allows for account creation and login
+                        <br />
+                        <b>+</b> Provides an educational game with minigames based on JavaScript and Canvas, and using Grids.
+                        <br />
+                        <b>+</b> Game progress is saved to the user's account
+                        <br />
+                        <b>+</b> Uses api calls and databases to dynamically render specific sprite images dependant on the user's character choices.
+                        <br />
+                        <b>+</b> Made with React, using both functional and class components
+                    </p>
+
+                    <h5>Personal Pet</h5>
+                    June 2020
+                    <p>
+                        <b>+</b> Allows for account creation and login
+                        <br />
+                        <b>+</b> Makes use of databases to add, track, and complete activities
+                        <br />
+                        <b>+</b> Primarily worked on front-end design and working with api's to make digital pet images change dynamically with the user's progress.
+                    </p>
+
+                    <h5>Foodies & Movies</h5>
+                    May 2020
+                    <p>
+                        <b>+</b> Uses a third-party API to gather recipe information
+                        <br />
+                        <b>+</b> Utilizes local storage to save food and drink recipes
+                        <br />
+                        <b>+</b> Picks a random movie using an API call to accompany your meal
+                    </p>
+
                     <h5>Leather Worker/Tooler @ Burns Saddlery</h5>
                     Jun 2017 - Mar 2020, Richfield, UT
                     <p>

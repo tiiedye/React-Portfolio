@@ -5,6 +5,11 @@ const styles = {
         width: 200,
         marginBottom: 40
     },
+    adventure: {
+        width: 200,
+        marginBottom: 40,
+        marginTop: 20
+    },
     projectTitle: {
         fontFamily: "Satisfy",
         fontSize: 25
@@ -35,6 +40,8 @@ function Portfolio() {
                         <b>+</b> Utilizes local storage to save food and drink recipes
                         <br />
                         <b>+</b> Picks a random movie using an API call to accompany your meal
+                        <br />
+                        <a href="https://github.com/mykakugaya/foodies-and-movies" target="_blank" rel="noopener noreferrer">Repo</a>
                     </p>
                 </div>
             </div>
@@ -52,6 +59,37 @@ function Portfolio() {
                         <b>+</b> Allows for account creation and login
                         <br />
                         <b>+</b> Makes use of databases to add, track, and complete activities
+                        <br />
+                        <a href="https://github.com/sharlenemay/personal_pet" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+                </div>
+            </div>
+
+            <div className="container row text-center">
+                <div className="col-md-4">
+                    <img src={require("../assets/adventure-home.png")} alt="Once Upon an Adventure" style={styles.adventure}></img>
+                        <br />
+                    <img src={require("../assets/adventure.png")} alt="Once Upon an Adventure" style={styles.img}></img>
+                </div>
+
+                <div className="col-md-8">
+                    <a style={styles.projectTitle} href="https://onceuponanadventure.herokuapp.com/" target="_blank" rel="noopener noreferrer">Once Upon an Adventure</a>
+                    <br />
+                    An educational website that uses RPG mechanics and mini-games to teach math, spelling, and typing.
+                    <p>
+                        <b>+</b> A small RPG-like game with storytelling and adventure mechanics.
+                        <br />
+                        <b>+</b> Allows for account creation and login
+                        <br />
+                        <b>+</b> Provides an educational game with minigames based on JavaScript and Canvas, and using Grids.
+                        <br />
+                        <b>+</b> Game progress is saved to the user's account
+                        <br />
+                        <b>+</b> Uses api calls and databases to dynamically render specific sprite images dependant on the user's character choices.
+                        <br />
+                        <b>+</b> Made with React, using both functional and class components
+                        <br />
+                        <a href="https://github.com/AnnaxGrace/once-upon-an-adventure" target="_blank" rel="noopener noreferrer">Repo</a>
                     </p>
                 </div>
             </div>
