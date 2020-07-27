@@ -5,10 +5,13 @@ import PDF from "../assets/Resume.pdf"
 function Resume() {
     return (
       <div className="container">
-        <a href = {PDF} target = "_blank" rel="noopener noreferrer">PDF</a>
-        <br />
-
         <h1>Resume</h1>
+
+        <div className="container pdf">
+            <a href = {PDF} target = "_blank" rel="noopener noreferrer">
+                <i class="far fa-file-pdf"></i> PDF File
+            </a>
+        </div>
 
         <div className="container text-center">
           <h2>Professional Summary</h2>
