@@ -19,7 +19,7 @@ function Contact() {
           </p>
 
           <p>
-            <a href="https://www.linkedin.com/in/julia-clements-26a2201a6/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in iconC"></i></a>
+            <a href="https://www.linkedin.com/in/julia-jace-clements/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in iconC"></i></a>
             <a href="https://github.com/tiiedye" target="_blank" rel="noopener noreferrer"><i className="fab fa-github iconC"></i></a>
             <a href="https://twitter.com/tiiedye_" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter iconC"></i></a>
           </p>

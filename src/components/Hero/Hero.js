@@ -17,7 +17,7 @@ function Hero() {
             </p>
 
             <p>
-                <a href="https://www.linkedin.com/in/julia-clements-26a2201a6/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in icon"></i></a>
+                <a href="https://www.linkedin.com/in/julia-jace-clements/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in icon"></i></a>
                 <a href="https://github.com/tiiedye" target="_blank" rel="noopener noreferrer"><i className="fab fa-github icon"></i></a>
                 <a href="https://twitter.com/tiiedye_" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter icon"></i></a>
             </p>

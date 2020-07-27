@@ -1,9 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import PDF from "../assets/Resume.pdf"
 
 function Resume() {
     return (
       <div className="container">
+        <a href = {PDF} target = "_blank" rel="noopener noreferrer">PDF</a>
+        <br />
+
         <h1>Resume</h1>
 
         <div className="container text-center">
