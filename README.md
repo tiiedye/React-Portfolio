@@ -5,29 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # React Portfolio
 A portfolio made using React
 
-## Table of Contents
-* Installation
-* Usage
-* License
-* Contributing
-* Tests
-* Links
-
-## Installation
-React
-
-## Usage
-None. It's a portfolio.
-
-## Liscense
-none
-
 ## Contributing
 tiiedye
 
-## Tests
-no
-
 ## Links
+
+Deployed
 https://github.com/tiiedye/React-Portfolio
 
