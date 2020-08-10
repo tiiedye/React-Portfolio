@@ -21,7 +21,7 @@ function Portfolio() {
         <div className="container">
             <h1>Portfolio</h1>
 
-                <h2>Group Projects</h2>
+                <h2>Projects</h2>
                 <hr />
                 <p></p>
 

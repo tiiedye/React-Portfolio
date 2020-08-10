@@ -2,6 +2,7 @@ import React from "react";
 
 const styles = {
     img: {
+        marginTop: 30,
         borderRadius: 8,
         height: 300,
         width: 300
@@ -20,29 +21,29 @@ function About() {
 
                     <div className="col-md-8">
                     <p>
-                        Hello! my name is Julia Clements, but feel free to call me Jace. I'm
-                        non-binary and prefer They/Them pronouns.
+                        <b>Name:</b> Julia Clements
+                        <br />
+                        <b>Preferred Name:</b> Jace
+                        <br />
+                        <b>Pronouns:</b> They/Them
+                        <br />
+                        <b>Hobbies:</b> video games, horse-back riding, cooking
                     </p>
                     <p>
-                        I'm originally from Los Angeles California but I am currently living
-                        in central Utah. I moved to Utah to pursue my passion for
-                        leatherworking, and have been living here for three years now. I'm
-                        more on the artistic side of leatherworking, where I carve designs
-                        into saddles, belts, holsters, and all manner of other things.
-                        However, I'm ready for a change.
+                        I'm originally from Los Angeles California, but have spent the last three years in Utah. 
+                        I moved to Utah to pursue my passion for leatherworking, but now it's time for a change! 
+                        I have always been a fan of problem solving, and although I still have a passion for carving, 
+                        tooling, and leatherwork in general, I need something that is more of challenge.
                     </p>
                     <p>
-                        My goal is to move back to California so I can be closer to friends
-                        and family, and I'm also interested in pursuing work that is more of
-                        a challenge.
-                    </p>
-                    <p>
-                        I love puzzles and thinking through problems, and I've always had a
-                        love for technology and coding. I taught myself a little bit of HTML
-                        and CSS at the age of twelve, and am eager to get back into it and
-                        to learn even more! My hobbies include horse-back riding and video
-                        games. I love to cook and try new things, and I love to travel as
-                        well!
+                        I've always had an affinity towards technology, and taught myself how to build basic websites 
+                        using HTML and CSS at the young age of twelve (thanks neopets!). It's something I remember I 
+                        truly enjoyed doing at the time, and figured it is never to late to hop back into coding. I 
+                        was right! It was easy to get the hang of HTML and CSS again, and I learned a whole lot more along 
+                        the way. I have a strong understanding of HTML, CSS, JavaScript, Node, Frameworks such 
+                        as Bootstrap, Libraries like jQuery and React, and databases such as MongoDB and MySQL. I'm also 
+                        taking the time to expand my knowledge even further, and am currently working on learning C++, C#, 
+                        and Typescript!
                     </p>
                     </div>
                 </div>
