@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1836894d6f9da2af0de5ade6d7436ae9",
+    "revision": "9cba7d52ddc286d0e905cb6ed7b08f92",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "33681152dcc312f5ca9e",
-    "url": "/React-Portfolio/static/css/main.a909e01f.chunk.css"
+    "revision": "8c1ea66116291fd5b82a",
+    "url": "/React-Portfolio/static/css/main.d03d6ff7.chunk.css"
   },
   {
     "revision": "ec5f0d8a60ebac3fac39",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "33681152dcc312f5ca9e",
-    "url": "/React-Portfolio/static/js/main.5f52d741.chunk.js"
+    "revision": "8c1ea66116291fd5b82a",
+    "url": "/React-Portfolio/static/js/main.295a15f4.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -52,12 +52,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/burger-logger.518d6690.png"
   },
   {
+    "revision": "236f33c7e04fb1b42bd983b5164ff494",
+    "url": "/React-Portfolio/static/media/cipher-with-strings.236f33c7.png"
+  },
+  {
     "revision": "4870b8fcb635cd699de6d30e4eba5402",
     "url": "/React-Portfolio/static/media/day-planner.4870b8fc.png"
   },
   {
     "revision": "ba1d81f951c9edb01b73e0aab37aa8f2",
     "url": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png"
+  },
+  {
+    "revision": "f2fcbd3bd8d5e1b2c97016f734b5d805",
+    "url": "/React-Portfolio/static/media/got-change.f2fcbd3b.png"
+  },
+  {
+    "revision": "9c7bba6eeb5471445a947808888c4bcf",
+    "url": "/React-Portfolio/static/media/playing-with-numbers.9c7bba6e.png"
   },
   {
     "revision": "2599934d65ca2261325a0c428cdd3cf5",
