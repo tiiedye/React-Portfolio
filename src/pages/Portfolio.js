@@ -5,6 +5,9 @@ const styles = {
         width: 200,
         marginBottom: 40
     },
+    other: {
+        width: 150
+    },
     adventure: {
         width: 200,
         marginBottom: 40,
@@ -100,7 +103,11 @@ function Portfolio() {
 
             <div className="text-center">
                 <p>
-                    <h5>Day Planner</h5>                      
+                    <h5>Day Planner</h5> 
+                    <img src={require("../assets/day-planner.png")} alt="Day Planner" style={styles.other}></img>
+                    <br />  
+                    A small day-planner app that lets you organize your day!
+                    <br />                   
                     <a class="a" href="https://github.com/tiiedye/05-day-planner" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
                     <a class="a" href="https://tiiedye.github.io/05-day-planner/" target="_blank" rel="noopener noreferrer">Deployed</a>
@@ -108,6 +115,10 @@ function Portfolio() {
 
                 <p>
                     <h5>Weather App</h5>
+                    <img src={require("../assets/weather-app.png")} alt="Weather App" style={styles.other}></img>
+                    <br />
+                    A small weather app, where you can enter a location and see the daily and weekly forcast.
+                    <br />
                     <a class="a" href="https://github.com/tiiedye/06-weather-app" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
                     <a class="a" href="https://tiiedye.github.io/06-weather-app/" target="_blank" rel="noopener noreferrer">Deployed</a>
@@ -115,6 +126,10 @@ function Portfolio() {
 
                 <p>
                     <h5>Burger Logger</h5>
+                    <img src={require("../assets/burger-logger.png")} alt="Burger Logger" style={styles.other}></img>
+                    <br />
+                    a fun little app that lets you "devour" burgers.
+                    <br />
                     <a class="a" href="https://github.com/tiiedye/13-Burger-Logger" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
                     <a class="a" href="https://immense-depths-45931.herokuapp.com/" target="_blank" rel="noopener noreferrer">Deployed</a>
@@ -122,11 +137,17 @@ function Portfolio() {
 
                 <p>
                     <h5>CLI Employee Tracker</h5>
+                    A Command-line app that lets you add and manage employees.
+                    <br />
                     <a class="a" href="https://github.com/tiiedye/12-Employee-Tracker" target="_blank" rel="noopener noreferrer">Repo</a>
                 </p>
 
                 <p>
                     <h5>User Directory</h5>
+                    <img src={require("../assets/user-directory.png")} alt="User Directory" style={styles.other}></img>
+                    <br />
+                    an example User Directory using React.
+                    <br />
                     <a class="a" href="https://github.com/tiiedye/User-Directory" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
                     <a class="a" href="https://tiiedye.github.io/User-Directory/" target="_blank" rel="noopener noreferrer">Deployed</a>
