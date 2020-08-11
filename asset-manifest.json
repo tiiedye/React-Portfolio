@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.a909e01f.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.3ac29361.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.3ac29361.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.23bb5bfb.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.23bb5bfb.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
     "static/js/2.d9762e86.chunk.js": "/React-Portfolio/static/js/2.d9762e86.chunk.js",
     "static/js/2.d9762e86.chunk.js.map": "/React-Portfolio/static/js/2.d9762e86.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.047ec227470cef273cb57c4dae8bd57a.js": "/React-Portfolio/precache-manifest.047ec227470cef273cb57c4dae8bd57a.js",
+    "precache-manifest.15f4c498349ae12130d0c94623b4f559.js": "/React-Portfolio/precache-manifest.15f4c498349ae12130d0c94623b4f559.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/main.a909e01f.chunk.css.map": "/React-Portfolio/static/css/main.a909e01f.chunk.css.map",
     "static/js/2.d9762e86.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt",
@@ -18,12 +18,16 @@
     "static/media/Selfcare-sidekick.png": "/React-Portfolio/static/media/Selfcare-sidekick.6ee8d9ea.png",
     "static/media/adventure-home.png": "/React-Portfolio/static/media/adventure-home.9c7f1dc0.png",
     "static/media/adventure.png": "/React-Portfolio/static/media/adventure.a8bdbf6d.png",
-    "static/media/foodies-and-movies-thumb.png": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png"
+    "static/media/burger-logger.png": "/React-Portfolio/static/media/burger-logger.518d6690.png",
+    "static/media/day-planner.png": "/React-Portfolio/static/media/day-planner.4870b8fc.png",
+    "static/media/foodies-and-movies-thumb.png": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png",
+    "static/media/user-directory.png": "/React-Portfolio/static/media/user-directory.2599934d.png",
+    "static/media/weather-app.png": "/React-Portfolio/static/media/weather-app.eaf98053.png"
   },
   "entrypoints": [
     "static/js/runtime-main.266d4783.js",
     "static/js/2.d9762e86.chunk.js",
     "static/css/main.a909e01f.chunk.css",
-    "static/js/main.3ac29361.chunk.js"
+    "static/js/main.23bb5bfb.chunk.js"
   ]
 }

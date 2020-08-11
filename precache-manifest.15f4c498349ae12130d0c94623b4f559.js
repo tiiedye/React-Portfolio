@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "adf54a76dd0a62d7e5af3602618e9760",
+    "revision": "e2f763042558ad74230792c1a3a40389",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "04e9a754579b7d8456df",
+    "revision": "2f3d1d025ef2498dafca",
     "url": "/React-Portfolio/static/css/main.a909e01f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04e9a754579b7d8456df",
-    "url": "/React-Portfolio/static/js/main.3ac29361.chunk.js"
+    "revision": "2f3d1d025ef2498dafca",
+    "url": "/React-Portfolio/static/js/main.23bb5bfb.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -48,7 +48,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/adventure.a8bdbf6d.png"
   },
   {
+    "revision": "518d6690ba29f2df54b36a628a26666c",
+    "url": "/React-Portfolio/static/media/burger-logger.518d6690.png"
+  },
+  {
+    "revision": "4870b8fcb635cd699de6d30e4eba5402",
+    "url": "/React-Portfolio/static/media/day-planner.4870b8fc.png"
+  },
+  {
     "revision": "ba1d81f951c9edb01b73e0aab37aa8f2",
     "url": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png"
+  },
+  {
+    "revision": "2599934d65ca2261325a0c428cdd3cf5",
+    "url": "/React-Portfolio/static/media/user-directory.2599934d.png"
+  },
+  {
+    "revision": "eaf98053507efe40311497adc7c9b226",
+    "url": "/React-Portfolio/static/media/weather-app.eaf98053.png"
   }
 ]);
