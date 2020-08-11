@@ -107,6 +107,8 @@ function Portfolio() {
                     <img src={require("../assets/day-planner.png")} alt="Day Planner" style={styles.other}></img>
                     <br />  
                     A small day-planner app that lets you organize your day!
+                    <br />
+                    + Makes use of Local Storage
                     <br />                   
                     <a class="a" href="https://github.com/tiiedye/05-day-planner" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
@@ -119,6 +121,8 @@ function Portfolio() {
                     <br />
                     A small weather app, where you can enter a location and see the daily and weekly forcast.
                     <br />
+                    + Uses Local Storage and API calls
+                    <br />
                     <a class="a" href="https://github.com/tiiedye/06-weather-app" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
                     <a class="a" href="https://tiiedye.github.io/06-weather-app/" target="_blank" rel="noopener noreferrer">Deployed</a>
@@ -129,6 +133,8 @@ function Portfolio() {
                     <img src={require("../assets/burger-logger.png")} alt="Burger Logger" style={styles.other}></img>
                     <br />
                     a fun little app that lets you "devour" burgers.
+                    <br />
+                    + Working with creating and updating API's
                     <br />
                     <a class="a" href="https://github.com/tiiedye/13-Burger-Logger" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
@@ -147,6 +153,8 @@ function Portfolio() {
                     <img src={require("../assets/user-directory.png")} alt="User Directory" style={styles.other}></img>
                     <br />
                     an example User Directory using React.
+                    <br />
+                    + Uses React components to create a 1-page App.
                     <br />
                     <a class="a" href="https://github.com/tiiedye/User-Directory" target="_blank" rel="noopener noreferrer">Repo</a>
                     <br />
