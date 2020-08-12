@@ -165,7 +165,7 @@ function Portfolio() {
                 <div className="text-center">
                     <p>
                         <h5>CLI Cipher With Strings App</h5>
-                        <img src={require("../assets/cipher-with-strings.png")} alt="Day Planner" style={styles.other}></img>
+                        <img src={require("../assets/cipher-with-strings.png")} alt="CLI" style={styles.other}></img>
                         <br />  
                         A simple CLI program using C++ that uses a substitution cipher to encrypt and decrypt messages.
                         <br />
@@ -174,7 +174,7 @@ function Portfolio() {
 
                     <p>
                         <h5>CLI Playing With Numbers App</h5>
-                        <img src={require("../assets/playing-with-numbers.png")} alt="Day Planner" style={styles.other}></img>
+                        <img src={require("../assets/playing-with-numbers.png")} alt="CLI" style={styles.other}></img>
                         <br />  
                         A simple CLI program using C++ that uses a substitution cipher to encrypt and decrypt messages.
                         <br />
@@ -183,12 +183,32 @@ function Portfolio() {
 
                     <p>
                         <h5>CLI Got Change?? App</h5>
-                        <img src={require("../assets/got-change.png")} alt="Day Planner" style={styles.other}></img>
+                        <img src={require("../assets/got-change.png")} alt="CLI" style={styles.other}></img>
                         <br />  
                         A simple CLI app that uses operators in C++ to determine the value of your cents, 
                         and organizes them into: dollars, quarters, dimes, nickles, and pennies.
                         <br />
                         <a class="a" href="https://github.com/tiiedye/got-change" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Employee Tracker</h5>
+                        <img src={require("../assets/employee-tracker.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        a solution for managing a company's employees using node, inquirer, and MySQL.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/12-Employee-Tracker" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Team-Page Generator</h5>
+                        <img src={require("../assets/team-generator1.png")} alt="CLI" style={styles.other}></img>
+                        <img src={require("../assets/team-generator2.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        A Node CLI app that uses inquirer to build a Team Page. After answering all the questions in the Command 
+                        Line it produces and HTML file in the output using the information given.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/10-team-generator" target="_blank" rel="noopener noreferrer">Repo</a>
                     </p>
                 </div>
             </div>
