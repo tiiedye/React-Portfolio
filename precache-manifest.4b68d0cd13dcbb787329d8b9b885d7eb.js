@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "796496dd1b0de43fc84e157cdcf9a9ef",
+    "revision": "47e8e1bfb4843af7e9f74a12a1fb36c7",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "a9c855c734e6209f4733",
+    "revision": "81a3155397ede2514fbb",
     "url": "/React-Portfolio/static/css/main.617ad6d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9c855c734e6209f4733",
-    "url": "/React-Portfolio/static/js/main.295a15f4.chunk.js"
+    "revision": "81a3155397ede2514fbb",
+    "url": "/React-Portfolio/static/js/main.ae57187b.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -60,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/day-planner.4870b8fc.png"
   },
   {
+    "revision": "23ea3701365b0341b2281f4b8adc2060",
+    "url": "/React-Portfolio/static/media/employee-tracker.23ea3701.png"
+  },
+  {
     "revision": "ba1d81f951c9edb01b73e0aab37aa8f2",
     "url": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png"
   },
@@ -70,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9c7bba6eeb5471445a947808888c4bcf",
     "url": "/React-Portfolio/static/media/playing-with-numbers.9c7bba6e.png"
+  },
+  {
+    "revision": "73fddc869d300225fc9e26830b39a58a",
+    "url": "/React-Portfolio/static/media/team-generator1.73fddc86.png"
+  },
+  {
+    "revision": "9af23c36e18cda1bd159a9b37e968f80",
+    "url": "/React-Portfolio/static/media/team-generator2.9af23c36.png"
   },
   {
     "revision": "2599934d65ca2261325a0c428cdd3cf5",
