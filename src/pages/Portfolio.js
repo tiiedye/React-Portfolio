@@ -66,7 +66,7 @@ function Portfolio() {
                         </div>
 
                         <div className="col-md-8">
-                            <a style={styles.projectTitle} href="https://personal-pet.herokuapp.com/" target="_blank" rel="noopener noreferrer">Self Care Sidekick</a>
+                            <a style={styles.projectTitle} href="https://selfcare-sidekick.herokuapp.com/" target="_blank" rel="noopener noreferrer">Self Care Sidekick</a>
                             <br />
                             An app to care for a digital pet while taking care of yourself.
                             <p>
@@ -74,7 +74,7 @@ function Portfolio() {
                                 <br />
                                 <b>+</b> Makes use of databases to add, track, and complete activities
                                 <br />
-                                <a href="https://github.com/sharlenemay/personal_pet" target="_blank" rel="noopener noreferrer">Repo</a>
+                                <a href="https://github.com/tiiedye/personal_pet" target="_blank" rel="noopener noreferrer">Repo</a>
                             </p>
                         </div>
                     </div>
