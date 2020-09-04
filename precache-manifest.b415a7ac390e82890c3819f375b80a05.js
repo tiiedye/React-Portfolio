@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07a8f5344444ea731237d06e30ebd8a9",
+    "revision": "d0f0f6517136c19bf03f736ba98c9cda",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "0c78e3fa675b863129aa",
+    "revision": "72fd0173d9aa78db8121",
     "url": "/React-Portfolio/static/css/main.617ad6d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c78e3fa675b863129aa",
-    "url": "/React-Portfolio/static/js/main.9af37a51.chunk.js"
+    "revision": "72fd0173d9aa78db8121",
+    "url": "/React-Portfolio/static/js/main.27bdd003.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/cipher-with-strings.236f33c7.png"
   },
   {
+    "revision": "4ae80d5be12a1a63e74f31a83e5ffbef",
+    "url": "/React-Portfolio/static/media/cleaning-app.4ae80d5b.png"
+  },
+  {
     "revision": "4870b8fcb635cd699de6d30e4eba5402",
     "url": "/React-Portfolio/static/media/day-planner.4870b8fc.png"
   },
@@ -72,8 +76,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/got-change.f2fcbd3b.png"
   },
   {
+    "revision": "abfd296a1fbe1e693bf2eadc1432a134",
+    "url": "/React-Portfolio/static/media/letter-pyramid.abfd296a.png"
+  },
+  {
+    "revision": "9bbb40bb2907e6bafd4493b444b6f710",
+    "url": "/React-Portfolio/static/media/movie-listings.9bbb40bb.png"
+  },
+  {
+    "revision": "ecb23f00c6a9d47aa79a55b283a2b276",
+    "url": "/React-Portfolio/static/media/overloading-operators-2.ecb23f00.png"
+  },
+  {
+    "revision": "89a2563d7603cfbbdf8849921325d7da",
+    "url": "/React-Portfolio/static/media/overloading-operators.89a2563d.png"
+  },
+  {
     "revision": "9c7bba6eeb5471445a947808888c4bcf",
     "url": "/React-Portfolio/static/media/playing-with-numbers.9c7bba6e.png"
+  },
+  {
+    "revision": "2b557ecec3a89de72052ef71f8441622",
+    "url": "/React-Portfolio/static/media/playing-with-pointers.2b557ece.png"
+  },
+  {
+    "revision": "43cb56f1d9f0d9d67db363c4ea2d666b",
+    "url": "/React-Portfolio/static/media/simple-bank-app.43cb56f1.png"
   },
   {
     "revision": "73fddc869d300225fc9e26830b39a58a",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.617ad6d9.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.9af37a51.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.9af37a51.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.27bdd003.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.27bdd003.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
     "static/js/2.d9762e86.chunk.js": "/React-Portfolio/static/js/2.d9762e86.chunk.js",
     "static/js/2.d9762e86.chunk.js.map": "/React-Portfolio/static/js/2.d9762e86.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.324a3c9c64923dcc0c54f6f301d6d376.js": "/React-Portfolio/precache-manifest.324a3c9c64923dcc0c54f6f301d6d376.js",
+    "precache-manifest.b415a7ac390e82890c3819f375b80a05.js": "/React-Portfolio/precache-manifest.b415a7ac390e82890c3819f375b80a05.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/main.617ad6d9.chunk.css.map": "/React-Portfolio/static/css/main.617ad6d9.chunk.css.map",
     "static/js/2.d9762e86.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt",
@@ -20,11 +20,18 @@
     "static/media/adventure.png": "/React-Portfolio/static/media/adventure.a8bdbf6d.png",
     "static/media/burger-logger.png": "/React-Portfolio/static/media/burger-logger.518d6690.png",
     "static/media/cipher-with-strings.png": "/React-Portfolio/static/media/cipher-with-strings.236f33c7.png",
+    "static/media/cleaning-app.png": "/React-Portfolio/static/media/cleaning-app.4ae80d5b.png",
     "static/media/day-planner.png": "/React-Portfolio/static/media/day-planner.4870b8fc.png",
     "static/media/employee-tracker.png": "/React-Portfolio/static/media/employee-tracker.23ea3701.png",
     "static/media/foodies-and-movies-thumb.png": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png",
     "static/media/got-change.png": "/React-Portfolio/static/media/got-change.f2fcbd3b.png",
+    "static/media/letter-pyramid.png": "/React-Portfolio/static/media/letter-pyramid.abfd296a.png",
+    "static/media/movie-listings.png": "/React-Portfolio/static/media/movie-listings.9bbb40bb.png",
+    "static/media/overloading-operators-2.png": "/React-Portfolio/static/media/overloading-operators-2.ecb23f00.png",
+    "static/media/overloading-operators.png": "/React-Portfolio/static/media/overloading-operators.89a2563d.png",
     "static/media/playing-with-numbers.png": "/React-Portfolio/static/media/playing-with-numbers.9c7bba6e.png",
+    "static/media/playing-with-pointers.png": "/React-Portfolio/static/media/playing-with-pointers.2b557ece.png",
+    "static/media/simple-bank-app.png": "/React-Portfolio/static/media/simple-bank-app.43cb56f1.png",
     "static/media/team-generator1.png": "/React-Portfolio/static/media/team-generator1.73fddc86.png",
     "static/media/team-generator2.png": "/React-Portfolio/static/media/team-generator2.9af23c36.png",
     "static/media/user-directory.png": "/React-Portfolio/static/media/user-directory.2599934d.png",
@@ -34,6 +41,6 @@
     "static/js/runtime-main.266d4783.js",
     "static/js/2.d9762e86.chunk.js",
     "static/css/main.617ad6d9.chunk.css",
-    "static/js/main.9af37a51.chunk.js"
+    "static/js/main.27bdd003.chunk.js"
   ]
 }
