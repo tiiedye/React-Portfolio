@@ -164,6 +164,15 @@ function Portfolio() {
 
                 <div className="text-center">
                     <p>
+                        <h5>Polymorphic Bank App</h5>
+                        <img src={require("../assets/polymorphic-bank-app.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        An app building upon my Simple Banking App, transforming it to use polymorphic code with abstract classes, class interfaces, virtual functions, and pointers.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Polymorphic-Bank-App" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
                         <h5>Simple Bank App</h5>
                         <img src={require("../assets/simple-bank-app.png")} alt="CLI" style={styles.other}></img>
                         <br />  
