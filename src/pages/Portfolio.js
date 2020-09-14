@@ -164,6 +164,15 @@ function Portfolio() {
 
                 <div className="text-center">
                     <p>
+                        <h5>Playing with Smart Pointers</h5>
+                        <img src={require("../assets/playing-with-smart-pointers.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        A very simple app using smart-pointers and vectors. Uses unique_ptr, make_unique, and shared_ptr.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Playing-With-Smart-Pointers" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
                         <h5>Polymorphic Bank App</h5>
                         <img src={require("../assets/polymorphic-bank-app.png")} alt="CLI" style={styles.other}></img>
                         <br />  
