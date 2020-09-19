@@ -164,6 +164,15 @@ function Portfolio() {
 
                 <div className="text-center">
                     <p>
+                        <h5>Banking with Exceptions</h5>
+                        <img src={require("../assets/exception-handling.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        Building upon my previous banking apps, adding custom exception handling.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Banking-With-Exceptions" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
                         <h5>Playing with Smart Pointers</h5>
                         <img src={require("../assets/playing-with-smart-pointers.png")} alt="CLI" style={styles.other}></img>
                         <br />  
