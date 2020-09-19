@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1584ac0023612ebe0624eaee5a7693bd",
+    "revision": "f2e53b0fa28f9f987ae7c1fdb07f2a0e",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "d1cff51a933743861d6d",
+    "revision": "79b84c8a79b7483152c3",
     "url": "/React-Portfolio/static/css/main.617ad6d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1cff51a933743861d6d",
-    "url": "/React-Portfolio/static/js/main.73172b6b.chunk.js"
+    "revision": "79b84c8a79b7483152c3",
+    "url": "/React-Portfolio/static/js/main.fe4e0bbb.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "23ea3701365b0341b2281f4b8adc2060",
     "url": "/React-Portfolio/static/media/employee-tracker.23ea3701.png"
+  },
+  {
+    "revision": "86e2e4b00fc0e110e74636dc47f1bdc2",
+    "url": "/React-Portfolio/static/media/exception-handling.86e2e4b0.png"
   },
   {
     "revision": "ba1d81f951c9edb01b73e0aab37aa8f2",

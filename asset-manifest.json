@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.617ad6d9.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.73172b6b.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.73172b6b.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.fe4e0bbb.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.fe4e0bbb.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
     "static/js/2.d9762e86.chunk.js": "/React-Portfolio/static/js/2.d9762e86.chunk.js",
     "static/js/2.d9762e86.chunk.js.map": "/React-Portfolio/static/js/2.d9762e86.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.4d34c2b55242fc348672e2399a7e2d39.js": "/React-Portfolio/precache-manifest.4d34c2b55242fc348672e2399a7e2d39.js",
+    "precache-manifest.4d9bdac2bcaa2691ccb2cebe3f46b380.js": "/React-Portfolio/precache-manifest.4d9bdac2bcaa2691ccb2cebe3f46b380.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/main.617ad6d9.chunk.css.map": "/React-Portfolio/static/css/main.617ad6d9.chunk.css.map",
     "static/js/2.d9762e86.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt",
@@ -23,6 +23,7 @@
     "static/media/cleaning-app.png": "/React-Portfolio/static/media/cleaning-app.4ae80d5b.png",
     "static/media/day-planner.png": "/React-Portfolio/static/media/day-planner.4870b8fc.png",
     "static/media/employee-tracker.png": "/React-Portfolio/static/media/employee-tracker.23ea3701.png",
+    "static/media/exception-handling.png": "/React-Portfolio/static/media/exception-handling.86e2e4b0.png",
     "static/media/foodies-and-movies-thumb.png": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png",
     "static/media/got-change.png": "/React-Portfolio/static/media/got-change.f2fcbd3b.png",
     "static/media/letter-pyramid.png": "/React-Portfolio/static/media/letter-pyramid.abfd296a.png",
@@ -43,6 +44,6 @@
     "static/js/runtime-main.266d4783.js",
     "static/js/2.d9762e86.chunk.js",
     "static/css/main.617ad6d9.chunk.css",
-    "static/js/main.73172b6b.chunk.js"
+    "static/js/main.fe4e0bbb.chunk.js"
   ]
 }
