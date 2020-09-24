@@ -164,6 +164,42 @@ function Portfolio() {
 
                 <div className="text-center">
                     <p>
+                        <h5>Practice with Output Streams</h5>
+                        <img src={require("../assets/output-streams.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        simple program that copies the script of Romeo and Juliet from a .txt file, and creates another .txt file with a copy of the script and adds line numbers to it.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Practice-With-Output-Streams" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Romeo & Juliet Word Search</h5>
+                        <img src={require("../assets/romeo-juliet-word-search.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        A simple program that allows you to search for words within the script of Romeo & Juliet. This program makes use of fstream to open, read, and close files, and iomanip to add some formatting to the CLI.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Romeo-Juliet-Word-Search" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Reading Files Exercise</h5>
+                        <img src={require("../assets/file-reading.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        A simple exercise creating a file-reading app. The CLI app reads a .txt file and then prints out the student's names and test scores as well as the total average of the scores.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/File-Reading-Exercise" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Touring with Tables</h5>
+                        <img src={require("../assets/Touring-with-Tables.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        A simple app that displays a table with counties, cities, city population, and average travel cost to that city from Miami. Practicing working with making custom tables using C++ and CLI to display the table. Makes use of the Standard Library setw, setfill, setprecision, left, and right methods.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Touring-with-Tables" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
                         <h5>Banking with Exceptions</h5>
                         <img src={require("../assets/exception-handling.png")} alt="CLI" style={styles.other}></img>
                         <br />  
