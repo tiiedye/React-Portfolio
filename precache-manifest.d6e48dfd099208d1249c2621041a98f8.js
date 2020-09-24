@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2e53b0fa28f9f987ae7c1fdb07f2a0e",
+    "revision": "336054a9dc67277d246e794f14af588c",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "79b84c8a79b7483152c3",
+    "revision": "1ededc5a3cf718929269",
     "url": "/React-Portfolio/static/css/main.617ad6d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79b84c8a79b7483152c3",
-    "url": "/React-Portfolio/static/js/main.fe4e0bbb.chunk.js"
+    "revision": "1ededc5a3cf718929269",
+    "url": "/React-Portfolio/static/js/main.8f19368d.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6ee8d9ea2c245340a3774bce9ece45e5",
     "url": "/React-Portfolio/static/media/Selfcare-sidekick.6ee8d9ea.png"
+  },
+  {
+    "revision": "c2f1d84ea7d0cc5d1202b72001d9e357",
+    "url": "/React-Portfolio/static/media/Touring-with-Tables.c2f1d84e.png"
   },
   {
     "revision": "9c7f1dc0e7be054008ffd2dfd8322948",
@@ -72,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/exception-handling.86e2e4b0.png"
   },
   {
+    "revision": "e7801a70cd2a54c7567b0b436faa71ba",
+    "url": "/React-Portfolio/static/media/file-reading.e7801a70.png"
+  },
+  {
     "revision": "ba1d81f951c9edb01b73e0aab37aa8f2",
     "url": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png"
   },
@@ -86,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9bbb40bb2907e6bafd4493b444b6f710",
     "url": "/React-Portfolio/static/media/movie-listings.9bbb40bb.png"
+  },
+  {
+    "revision": "7fc558bcf3716717e75c4910e1f20b01",
+    "url": "/React-Portfolio/static/media/output-streams.7fc558bc.png"
   },
   {
     "revision": "ecb23f00c6a9d47aa79a55b283a2b276",
@@ -110,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bc8d1031c5cc10d0f63d8af6d8097b80",
     "url": "/React-Portfolio/static/media/polymorphic-bank-app.bc8d1031.png"
+  },
+  {
+    "revision": "279c36b902e5b1874f0f542a3c785712",
+    "url": "/React-Portfolio/static/media/romeo-juliet-word-search.279c36b9.png"
   },
   {
     "revision": "43cb56f1d9f0d9d67db363c4ea2d666b",

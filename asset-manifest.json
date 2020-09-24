@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.617ad6d9.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.fe4e0bbb.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.fe4e0bbb.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.8f19368d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8f19368d.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.266d4783.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.266d4783.js.map",
     "static/js/2.d9762e86.chunk.js": "/React-Portfolio/static/js/2.d9762e86.chunk.js",
     "static/js/2.d9762e86.chunk.js.map": "/React-Portfolio/static/js/2.d9762e86.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "precache-manifest.4d9bdac2bcaa2691ccb2cebe3f46b380.js": "/React-Portfolio/precache-manifest.4d9bdac2bcaa2691ccb2cebe3f46b380.js",
+    "precache-manifest.d6e48dfd099208d1249c2621041a98f8.js": "/React-Portfolio/precache-manifest.d6e48dfd099208d1249c2621041a98f8.js",
     "service-worker.js": "/React-Portfolio/service-worker.js",
     "static/css/main.617ad6d9.chunk.css.map": "/React-Portfolio/static/css/main.617ad6d9.chunk.css.map",
     "static/js/2.d9762e86.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt",
@@ -16,6 +16,7 @@
     "static/media/ProfilePic.jpg": "/React-Portfolio/static/media/ProfilePic.71d3f509.jpg",
     "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.7e569602.pdf",
     "static/media/Selfcare-sidekick.png": "/React-Portfolio/static/media/Selfcare-sidekick.6ee8d9ea.png",
+    "static/media/Touring-with-Tables.png": "/React-Portfolio/static/media/Touring-with-Tables.c2f1d84e.png",
     "static/media/adventure-home.png": "/React-Portfolio/static/media/adventure-home.9c7f1dc0.png",
     "static/media/adventure.png": "/React-Portfolio/static/media/adventure.a8bdbf6d.png",
     "static/media/burger-logger.png": "/React-Portfolio/static/media/burger-logger.518d6690.png",
@@ -24,16 +25,19 @@
     "static/media/day-planner.png": "/React-Portfolio/static/media/day-planner.4870b8fc.png",
     "static/media/employee-tracker.png": "/React-Portfolio/static/media/employee-tracker.23ea3701.png",
     "static/media/exception-handling.png": "/React-Portfolio/static/media/exception-handling.86e2e4b0.png",
+    "static/media/file-reading.png": "/React-Portfolio/static/media/file-reading.e7801a70.png",
     "static/media/foodies-and-movies-thumb.png": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png",
     "static/media/got-change.png": "/React-Portfolio/static/media/got-change.f2fcbd3b.png",
     "static/media/letter-pyramid.png": "/React-Portfolio/static/media/letter-pyramid.abfd296a.png",
     "static/media/movie-listings.png": "/React-Portfolio/static/media/movie-listings.9bbb40bb.png",
+    "static/media/output-streams.png": "/React-Portfolio/static/media/output-streams.7fc558bc.png",
     "static/media/overloading-operators-2.png": "/React-Portfolio/static/media/overloading-operators-2.ecb23f00.png",
     "static/media/overloading-operators.png": "/React-Portfolio/static/media/overloading-operators.89a2563d.png",
     "static/media/playing-with-numbers.png": "/React-Portfolio/static/media/playing-with-numbers.9c7bba6e.png",
     "static/media/playing-with-pointers.png": "/React-Portfolio/static/media/playing-with-pointers.2b557ece.png",
     "static/media/playing-with-smart-pointers.png": "/React-Portfolio/static/media/playing-with-smart-pointers.692ba497.png",
     "static/media/polymorphic-bank-app.png": "/React-Portfolio/static/media/polymorphic-bank-app.bc8d1031.png",
+    "static/media/romeo-juliet-word-search.png": "/React-Portfolio/static/media/romeo-juliet-word-search.279c36b9.png",
     "static/media/simple-bank-app.png": "/React-Portfolio/static/media/simple-bank-app.43cb56f1.png",
     "static/media/team-generator1.png": "/React-Portfolio/static/media/team-generator1.73fddc86.png",
     "static/media/team-generator2.png": "/React-Portfolio/static/media/team-generator2.9af23c36.png",
@@ -44,6 +48,6 @@
     "static/js/runtime-main.266d4783.js",
     "static/js/2.d9762e86.chunk.js",
     "static/css/main.617ad6d9.chunk.css",
-    "static/js/main.fe4e0bbb.chunk.js"
+    "static/js/main.8f19368d.chunk.js"
   ]
 }
