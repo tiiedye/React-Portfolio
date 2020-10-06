@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "336054a9dc67277d246e794f14af588c",
+    "revision": "0042b4fe8f5ffeb7b1a41719812db79e",
     "url": "/React-Portfolio/index.html"
   },
   {
-    "revision": "1ededc5a3cf718929269",
+    "revision": "baf5ce0fc70415338a4c",
     "url": "/React-Portfolio/static/css/main.617ad6d9.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/js/2.d9762e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1ededc5a3cf718929269",
-    "url": "/React-Portfolio/static/js/main.8f19368d.chunk.js"
+    "revision": "baf5ce0fc70415338a4c",
+    "url": "/React-Portfolio/static/js/main.05b70f9e.chunk.js"
   },
   {
     "revision": "bcebe2d38e8b197ca4b9",
     "url": "/React-Portfolio/static/js/runtime-main.266d4783.js"
+  },
+  {
+    "revision": "86e2e4b00fc0e110e74636dc47f1bdc2",
+    "url": "/React-Portfolio/static/media/Exception-Handling.86e2e4b0.png"
   },
   {
     "revision": "c607d7b7d4539d8641b2d63f211b3e1f",
@@ -72,16 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/employee-tracker.23ea3701.png"
   },
   {
-    "revision": "86e2e4b00fc0e110e74636dc47f1bdc2",
-    "url": "/React-Portfolio/static/media/exception-handling.86e2e4b0.png"
-  },
-  {
     "revision": "e7801a70cd2a54c7567b0b436faa71ba",
     "url": "/React-Portfolio/static/media/file-reading.e7801a70.png"
   },
   {
     "revision": "ba1d81f951c9edb01b73e0aab37aa8f2",
     "url": "/React-Portfolio/static/media/foodies-and-movies-thumb.ba1d81f9.png"
+  },
+  {
+    "revision": "65537405ad43c1f47d747cf3061890aa",
+    "url": "/React-Portfolio/static/media/fun-with-palindromes.65537405.png"
   },
   {
     "revision": "f2fcbd3bd8d5e1b2c97016f734b5d805",
@@ -108,6 +112,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/overloading-operators.89a2563d.png"
   },
   {
+    "revision": "74996fcdf91199bda96b955b60c95358",
+    "url": "/React-Portfolio/static/media/play-list-practice.74996fcd.png"
+  },
+  {
     "revision": "9c7bba6eeb5471445a947808888c4bcf",
     "url": "/React-Portfolio/static/media/playing-with-numbers.9c7bba6e.png"
   },
@@ -128,8 +136,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Portfolio/static/media/romeo-juliet-word-search.279c36b9.png"
   },
   {
+    "revision": "457adf6dfcb58189ef964705264c7ba8",
+    "url": "/React-Portfolio/static/media/sets-maps.457adf6d.png"
+  },
+  {
     "revision": "43cb56f1d9f0d9d67db363c4ea2d666b",
     "url": "/React-Portfolio/static/media/simple-bank-app.43cb56f1.png"
+  },
+  {
+    "revision": "483b1e86702d10770094d154f325265c",
+    "url": "/React-Portfolio/static/media/stacks-and-queues.483b1e86.png"
   },
   {
     "revision": "73fddc869d300225fc9e26830b39a58a",
