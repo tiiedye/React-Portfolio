@@ -164,6 +164,42 @@ function Portfolio() {
 
                 <div className="text-center">
                     <p>
+                        <h5>Stacks and Queues</h5>
+                        <img src={require("../assets/stacks-and-queues.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        rewriting my previous palindrome project, but using stacks and queues. Functions exactly the same.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Stacks-and-Queues" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Sets, Maps, and Code, Oh My!</h5>
+                        <img src={require("../assets/sets-maps.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        Simple app that reads a file and creates a map of words and how many times they were used, and a map of the words and a set of what lines those words appear on.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Sets-Maps-And-Code-Oh-My" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Play LIST Practice</h5>
+                        <img src={require("../assets/play-list-practice.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        A simple program that navigates through a list of songs (playlist) and prints them out on the console. Simulates a music player.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Play-List-Practice" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
+                        <h5>Fun with Palindromes</h5>
+                        <img src={require("../assets/fun-with-palindromes.png")} alt="CLI" style={styles.other}></img>
+                        <br />  
+                        a simple CLI program that uses deques to sort through a string to determine if the string is a palindrome or not. There is a vector with test cases as well as a user interface that allows for users to input their own test strings.
+                        <br />
+                        <a class="a" href="https://github.com/tiiedye/Fun-With-Palindromes" target="_blank" rel="noopener noreferrer">Repo</a>
+                    </p>
+
+                    <p>
                         <h5>Practice with Output Streams</h5>
                         <img src={require("../assets/output-streams.png")} alt="CLI" style={styles.other}></img>
                         <br />  
@@ -201,7 +237,7 @@ function Portfolio() {
 
                     <p>
                         <h5>Banking with Exceptions</h5>
-                        <img src={require("../assets/exception-handling.png")} alt="CLI" style={styles.other}></img>
+                        <img src={require("../assets/Exception-Handling.png")} alt="CLI" style={styles.other}></img>
                         <br />  
                         Building upon my previous banking apps, adding custom exception handling.
                         <br />
