@@ -1,12 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-[![Generic badge](https://img.shields.io/badge/React-Portfolio-brightgreen.svg)](https://shields.io/)
+![made-with-VSCode](https://img.shields.io/badge/Made%20With-VS%20Code-blue)  ![Using-React](https://img.shields.io/badge/Using-React-brightgreen)
 
 # React Portfolio
-A portfolio made using React
-
-## Contributing
-tiiedye
+A Portfolio made using React
 
 ## Links
 
