@@ -11,5 +11,5 @@ tiiedye
 ## Links
 
 Deployed
-https://github.com/tiiedye/React-Portfolio
+https://tiiedye.github.io/React-Portfolio/
 
