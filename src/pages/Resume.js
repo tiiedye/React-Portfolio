@@ -34,13 +34,23 @@ function Resume() {
                     <br />
                     <b>+</b> API's
                     <br />
-                    <b>+</b> MySQL and MongoDB
+                    <b>+</b> MySQL
+                    <br />
+                    <b>+</b> MongoDB
+                    <br />
+                    <b>+</b> Firebase
                     <br />
                     <b>+</b> Node
                     <br />
                     <b>+</b> Express
                     <br />
                     <b>+</b> React
+                    <br />
+                    <b>+</b> C
+                    <br />
+                    <b>+</b> C++
+                    <br />
+                    <b>+</b> C#
                 </p>
 
             <h2>Experience</h2>
