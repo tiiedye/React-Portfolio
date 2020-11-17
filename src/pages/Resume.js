@@ -50,6 +50,21 @@ function Resume() {
                     </Link>
                 </p>
                 <p>
+
+                    <h5>Third Project Development</h5>
+                    July 2020 - Present
+                    <p>
+                        <b>+</b> Contributed to and developed websites for clients.
+                        <br />
+                        <b>+</b>Code optimization
+                        <br />
+                        <b>+</b> Worked on dynamic and portable code
+                        <br />
+                        <b>+</b> Worked on both Back-End and Front-End development
+                        <br />
+                        <b>+</b> Worked with Databases and Authentication.
+                    </p>
+
                     <h5>Once Upon an Adventure</h5>
                     July 2020
                     <p>
@@ -129,6 +144,11 @@ function Resume() {
                 </p>
 
             <h2>Education</h2>
+                <p>
+                    <h5>UCSD Extension</h5>
+                    C, C++, and C# Certification, Computer Science. (Present)
+                </p>
+
                 <p>
                     <h5>UCLA Extension</h5>
                     Full-Stack Web Development Certification, Computer Science
