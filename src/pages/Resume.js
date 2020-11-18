@@ -28,17 +28,11 @@ function Resume() {
                     <br />
                     <b>+</b> CSS
                     <br />
-                    <b>+</b> JavaScript
+                    <b>+</b> JavaScript & jQuery
                     <br />
-                    <b>+</b> jQuery
+                    <b>+</b> First & Third-Party API's
                     <br />
-                    <b>+</b> API's
-                    <br />
-                    <b>+</b> MySQL
-                    <br />
-                    <b>+</b> MongoDB
-                    <br />
-                    <b>+</b> Firebase
+                    <b>+</b> MySQL, MongoDB, & Firebase databases
                     <br />
                     <b>+</b> Node
                     <br />
@@ -46,11 +40,9 @@ function Resume() {
                     <br />
                     <b>+</b> React
                     <br />
-                    <b>+</b> C
+                    <b>+</b> C & C++
                     <br />
-                    <b>+</b> C++
-                    <br />
-                    <b>+</b> C#
+                    <b>+</b> C# & .NET Frameworks
                 </p>
 
             <h2>Experience</h2>
