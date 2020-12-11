@@ -6,13 +6,17 @@ const styles = {
         width: 200,
         marginBottom: 40
     },
+    GalaxyShooter: {
+        width: 200,
+        marginBottom: 15
+    },
     other: {
         width: 150
     },
     adventure: {
         width: 200,
         marginBottom: 40,
-        marginTop: 20
+        marginTop: 25
     },
     projectTitle: {
         fontFamily: "Satisfy",
@@ -30,6 +34,36 @@ function Portfolio() {
                     <h2 id="Projects">Projects</h2>
                     <hr />
                     <p></p>
+
+                    <div className="container row text-center">
+                        <div className="col-md-4">
+                            <img src={require("../assets/Galaxy_Shooter/Menu-to-game.gif")} alt="Galaxy Shooter" style={styles.GalaxyShooter}></img>
+                            <br />
+                            <img src={require("../assets/Galaxy_Shooter/beg-sprites.gif")} alt="Galaxy Shooter" style={styles.GalaxyShooter}></img>
+                        </div>
+
+                        <div className="col-md-8">
+                            <a style={styles.projectTitle} href="#">Galaxy Shooter</a>
+                            <br />
+                            A Galaxy Shooter game made with Unity
+                            <p>
+                                <b>+</b> Has multiple game Scenes, including a main menu and the playable Game scene
+                                <br />
+                                <b>+</b> Has a Player that is movable with WASD keys, and shoots a Laser with the Space key.
+                                <br />
+                                <b>+</b> Destroyable Enemies and Asteroids with randomized spawning mechanics.
+                                <br />
+                                <b>+</b>  Power Ups that the player can pick up and use, including: a Shield, a Triple Shot, and a Speed Boots
+                                <br />
+                                <b>+</b> Full Animations and Sound Effects.
+                                <br />
+
+                                <a href="https://github.com/tiiedye/Galaxy-Shooter" target="_blank" rel="noopener noreferrer">Repo</a>
+                                <br />
+                                <a href="https://www.youtube.com/watch?v=4UknD06izHI" target="_blank" rel="noopener noreferrer">Video Link</a>
+                            </p>
+                        </div>
+                    </div>
 
                     <div className="container row text-center">
                         <div className="col-md-4">
