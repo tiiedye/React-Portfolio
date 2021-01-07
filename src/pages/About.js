@@ -43,7 +43,7 @@ function About() {
                         the way. I have a strong understanding of HTML, CSS, JavaScript, Node, Frameworks such 
                         as Bootstrap, Libraries like jQuery and React, and databases such as MongoDB and MySQL. I'm also 
                         taking the time to expand my knowledge even further, and am currently working on learning C++, C#, 
-                        and Typescript!
+                        and Unity!
                     </p>
                     </div>
                 </div>
