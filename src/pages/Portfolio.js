@@ -60,7 +60,7 @@ function Portfolio() {
 
                                 <a href="https://github.com/tiiedye/Galaxy-Shooter" target="_blank" rel="noopener noreferrer">Repo</a>
                                 <br />
-                                <a href="https://youtu.be/SE7rW0poFgE" target="_blank" rel="noopener noreferrer">Video Link</a>
+                                <a href="https://www.youtube.com/watch?v=4UknD06izHI" target="_blank" rel="noopener noreferrer">Video Link</a>
                             </p>
                         </div>
                     </div>
