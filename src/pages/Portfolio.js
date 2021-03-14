@@ -21,6 +21,10 @@ const styles = {
     projectTitle: {
         fontFamily: "Satisfy",
         fontSize: 25
+    },
+    awm: {
+        height: 130,
+        margin: 2
     }
 }
 
@@ -34,6 +38,33 @@ function Portfolio() {
                     <h2 id="Projects">Projects</h2>
                     <hr />
                     <p></p>
+
+                    <div className="container row text-center">
+                        <div className="col-md-4">
+                            <img src={require("../assets/AWM1.png")} alt="Along With Me" style={styles.awm}></img>
+                            <img src={require("../assets/AWM2.png")} alt="Along With Me" style={styles.awm}></img>
+                            <br />
+                            <img src={require("../assets/AWM4.png")} alt="Along With Me" style={styles.awm}></img>
+                            <img src={require("../assets/AWM3.png")} alt="Along With Me" style={styles.awm}></img>
+                        </div>
+
+                        <div className="col-md-8">
+                            <a style={styles.projectTitle} href="https://github.com/ThirdProjectDev/rnApp2021" target="_blank" rel="noopener noreferrer">Along With Me</a>
+                            <br />
+                            A demo phone app that has text excerpts from books. Specific words are highlighted and clickable, and will play a sound associated with that word (i.e.: "Fireplace" will produce the sound of a crackling forest.)
+                            <p>
+                                <b>+</b> Allows for authentication and account creation. Account information and settings are held in Firebase.
+                                <br />
+                                <b>+</b> Makes use of many node modules, some edited to work with this app, such as React Native Highlight Words.
+                                <br />
+                                <b>+</b> Account settings can be edited, and are saved in Firebase.
+                                <br />
+                                <a href="https://github.com/ThirdProjectDev/rnApp2021" target="_blank" rel="noopener noreferrer">Repo</a>
+                                <br />
+                                <a href="https://play.google.com/store/apps/details?id=com.rnapp2021" target="_blank" rel="noopener noreferrer">Google Play Store</a>
+                            </p>
+                        </div>
+                    </div>
 
                     <div className="container row text-center">
                         <div className="col-md-4">
