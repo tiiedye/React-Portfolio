@@ -13,10 +13,6 @@ function Contact() {
                 tiiedye@gmail.com
             </a>
           </p>
-          <p>
-            <h5>Phone</h5>
-            (818)-534-7777
-          </p>
 
           <p>
             <a href="https://www.linkedin.com/in/julia-jace-clements/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin-in iconC"></i></a>
